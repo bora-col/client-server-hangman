@@ -12,19 +12,19 @@ All the computers participating in the game should be in the same Local Area Net
 This can be achieved by connecting all the computers to the same Wi-fi.
 ```
 
-1. Run the server:
+1. **Run the server:**
 > Open a command line window and run the following command.
 ```
 python3 tcp-server.py
 ```
 
-2. Specify the number of players:
+2. **Specify the number of players:**
 > The server program will ask you to specify the number of players from the command line prompt as follows.
 ```
 Number of players: 
 ```
 
-3. Run the clients
+3. **Run the clients:**
 > If you specified 'N' number of players, open 'N' different command line windows and run the following command.
 ```
 python3 tcp-client.py
