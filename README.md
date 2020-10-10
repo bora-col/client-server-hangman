@@ -1,4 +1,4 @@
-# python-client/server-hangman
+# client-server-hangman
 This project is a multithreaded client/server hangman game.
 The server serves the game, clients join and play concurrently.
 TCP/IP communication is used to establish the communication.
